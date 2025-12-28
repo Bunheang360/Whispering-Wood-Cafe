@@ -1,6 +1,6 @@
 # Project ID: 30
 
-#class: SE G1 Gen10
+# class: SE G1 Gen10
 
 # Game Name: Whispering Wood Cafe
 
