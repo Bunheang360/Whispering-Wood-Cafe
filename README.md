@@ -218,11 +218,11 @@ Assets/
 - Skyden Games - Assets
 - Supercyan - Character Pack Animal People
 
-## 📄 License
+## License
 
 This is a student project for educational purposes.
 
-## 🤝 Contributing
+## Contributing
 
 This is a final project, but suggestions and feedback are welcome!
 
